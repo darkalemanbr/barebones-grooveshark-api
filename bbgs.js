@@ -1,7 +1,7 @@
 // WARNING: Upon reading the following code, your eyes might catch fire.
 /**
  * A barebones Grooveshark API for node.js
- * @module bbgsapi
+ * @module bb-gs-api
  */
 
 var http = require('http');

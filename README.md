@@ -1,3 +1,5 @@
+**Notice: Grooveshark is no more.**
+
 Barebones Grooveshark API
 =====================
 
